@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/lista-tareas-react/",
+  base: "/lista-de-tareas-ahora-si-esto-es-personal/",
 })
